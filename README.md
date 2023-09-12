@@ -10,7 +10,6 @@ Digit categorization of scanned handwriting images, together with answer verific
 ## Neural Network Model
 <img width="514" alt="DL5" src="https://github.com/nithin-popuri7/mnist-classification/assets/94154780/e3c3e54c-98c2-4d89-934f-4aeb2383df05">
 
-
 ## DESIGN STEPS
 
 ### STEP 1:
