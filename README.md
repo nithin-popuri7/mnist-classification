@@ -147,6 +147,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 <img width="437" alt="DL" src="https://github.com/nithin-popuri7/mnist-classification/assets/94154780/122e59cf-69d1-4967-9667-35283e5ad55c">
 
 
+
 <img width="395" alt="DL1" src="https://github.com/nithin-popuri7/mnist-classification/assets/94154780/58cdc971-1b0d-4709-ace2-1391ad662ccf">
 
 
