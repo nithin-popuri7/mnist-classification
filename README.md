@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+# Experiment-3--Convolutional Deep Neural Network for Digit Classification
 
 ### AIM
 
